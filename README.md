@@ -1,3 +1,3 @@
 # Digital Clock
 
-![enter image description here](media/image.gif)
+![enter image description here](media/screenshot1.png)
